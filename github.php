@@ -1,3 +1,4 @@
-<?php echo 'yo sup?' 
-`git pull`;
+<?php 
+echo 'yo sup?';
+
 ?>
