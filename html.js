@@ -2,7 +2,7 @@ var http = require('http');
 
 var options = {
   host: 'google.com',
-  port: 80,
+  port: 8080,
   path: '/foo.html'
 };
 
